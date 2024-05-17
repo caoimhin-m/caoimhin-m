@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Céad míle fáilte. (A thousand welcomes)
+
+My name is Caoimhin Malone. I'm from ireland and very proud of it.
+
+I'm currently studying electronic and computer engineering in University of Galway.
+
+Slán anois agus tóg go bog é. (Goodbye now and take it easy)
+
 <!--
 **caoimhin-m/caoimhin-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
