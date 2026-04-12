@@ -2,7 +2,7 @@
 
 Céad míle fáilte. (A thousand welcomes)
 
-Slán anois agus tóg go bog é. (Goodbye now and take it easy)
+
 
 <!--
 **caoimhin-m/caoimhin-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
